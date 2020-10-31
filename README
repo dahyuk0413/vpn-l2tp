@@ -1,0 +1,3 @@
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/dahyuk0413/vpn-l2tp/main/vpn_l2tp.sh)"
+
+Used this code to create L2TP VPN!!!!
